@@ -5,7 +5,7 @@
 #############################
 
 
-#Veriable declaration
+#Variable declaration
 	$fileloc = " <> Location of XML file(s) (use * for multiple XML files) "
 	$searchterm = " <> Enter your search term (ex. email) "
 	$outputloc = " <> Where would you like to save the the search results file? (ex. C:\results\results.csv) "
