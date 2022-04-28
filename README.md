@@ -14,4 +14,5 @@ If the script fails to run, please see below...
 - It is possible that this command may also be needed before the script will be allowed to run "Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass"
 
 If the user does not have permission to access the XML file location, the script will return an error.
+
 If the user does not have permission to save files to the output location, the script will return an error.
